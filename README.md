@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 
 How to send this project live...
 And some other instructions and prereqs.
+
+#### Copyright 2023
