@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub works.
 
 ## Purpose
 
@@ -11,4 +11,4 @@ Sample website with plenty of files for demos and stuff...
 How to send this project live...
 And some other instructions and prereqs.
 
-#### Copyright 2023
+#### Copyright 2024
